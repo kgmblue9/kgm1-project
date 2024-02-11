@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.d1 {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.d2 {
+    margin: 10px 10px;
+}
+
+input {
+    height: 2em;
+    margin: 3px;
+}
